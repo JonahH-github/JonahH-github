@@ -1,3 +1,3 @@
-## Hi, I’m not sure what im doing
+## Hi, I’m using GitHub
 
-I like C#
+( I also like C# )
